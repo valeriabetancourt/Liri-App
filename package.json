@@ -1,0 +1,26 @@
+{
+  "name": "Liri-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriabetancourt/Liri-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeriabetancourt/Liri-App/issues"
+  },
+  "homepage": "https://github.com/valeriabetancourt/Liri-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
